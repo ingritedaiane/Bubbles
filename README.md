@@ -1,4 +1,4 @@
-# Bubbles 🫧
+# Bubbles | Bolhas com  JavaScript
 <div align="center"><br>
   <h2>Esse projeto foi desenvolvido com as seguintes tecnologias:</h2>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
