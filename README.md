@@ -8,5 +8,4 @@
 <br><img src="https://repository-images.githubusercontent.com/639480472/9a3bc65c-04a6-4583-9deb-ef5bf4a4da79" width="800px" height="400px"><br>
 <br><img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO%20COM%20SUCESSO&color=GREEN&style=for-the-badge"/><br>
   
-<a href="https://ingritedaiane.github.io/Bubbles/" target_="blank"> Vizualize Clicando Aqui!</a>📌<br>
-<a href="https://ingritedaiane.github.io/Bubbles/" target_="blank"> Clicking Here!</a>📌
+
